@@ -28,4 +28,4 @@ In order to be able to compile the CSS file, you need to run a SASS compiler and
 
 ### Tutorial
 
-I used this [tutorial](https://docs.suitecrm.com/blog/customizing-subthemes/) for creating the custom theme.
+I followed this [tutorial](https://docs.suitecrm.com/blog/customizing-subthemes/) for creating the custom theme.
