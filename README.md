@@ -3,7 +3,7 @@
 
 ### Setup
 
-1. Create a new custom theme directory [`custom/themes/SuiteP/`](https://github.com/riandesign/har_crm/tree/master/custom/themes/SuiteP)
+1. Create a new custom theme directory ([custom/themes/SuiteP/](https://github.com/riandesign/har_crm/tree/master/custom/themes/SuiteP))
 2. Add new label in a couple of places ([this file](custom/modules/Users/language/en_us.lang.php))
 3. Add a new `$app_strings` for the new Theme ([this file](https://github.com/riandesign/har_crm/blob/master/custom/Extension/application/Ext/Language/en_us.NoonThemeLabel.php))
 4. Include all custom files ([these files](https://github.com/riandesign/har_crm/tree/master/themes/SuiteP/css/HAR))
