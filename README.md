@@ -7,7 +7,7 @@
 2. Add new label in a couple of places [this file](custom/modules/Users/language/en_us.lang.php)
 3. Add a new `$app_strings` for the new Theme [this file](https://github.com/riandesign/har_crm/blob/master/custom/Extension/application/Ext/Language/en_us.NoonThemeLabel.php)
 4. Include all custom files [`these files`](https://github.com/riandesign/har_crm/tree/master/themes/SuiteP/css/HAR)
-5. Finally, just do a **Quick Repair and Rebuild** at [*Admin > Repair > Quick Repair and Rebuild*](http://localhost/har/har_crm/index.php?module=Administration&action=Upgrade)
+5. Finally, just do a **Quick Repair and Rebuild** at [*Admin > Repair > Quick Repair and Rebuild*](http://localhost/har/har_crm/index.php?module=Administration&action=Upgrade), and the *HAR theme* is operational and can be selected from the User’s profile, under Layout options.
 
 
 ### Customizing the styles
