@@ -28194,6 +28194,15 @@ textarea {
   .navbar-inverse a {
     color: #212529; }
 
+.navbar-inverse .headerlinks a:link,
+.navbar-inverse .headerlinks a:visited {
+  background: #fff;
+  box-shadow: 0px 0px 64px rgba(0, 0, 0, 0.15);
+  border-bottom: 1px solid #DFE3F0;
+  box-shadow: none !important;
+  color: #212529;
+  padding: 0 16px; }
+
 .navbar-brand, .navbar-inverse .navbar-nav > li > a.with-home-icon {
   color: #212529 !important; }
 
@@ -28393,7 +28402,7 @@ footer {
 .notCurrentTabRight,
 .currentTabLeft,
 .currentTabRight {
-  display: none; }
+  display: none !important; }
 
 .navbar-brand-container {
   margin-right: 24px;
